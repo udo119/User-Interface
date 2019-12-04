@@ -64,3 +64,204 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.links{
+	display: inline;
+	margin:20px;
+	padding:30px;
+}
+a{
+text-decoration: none;
+color: grey;
+}
+.home{
+	width:1000px;
+	margin:0 auto;
+}
+
+header nav a{
+	padding:0% 4%
+}
+
+header{
+	padding-bottom: 15px;
+}
+
+h1{
+	font-size: 85px;
+}
+.imgandheader{
+	display: inline-block;
+    
+}
+.left{
+	display: inline-block;
+	padding-right: 155px;
+}
+
+.left button{
+	font-size: 20px;
+	background: white;
+	border: 1px solid black;
+	color: black;
+	line-height: 30px;
+	width: 50%;
+	margin: 50px
+}
+
+.features{
+	display: inline-block;
+    width: 30%;
+    margin-right: 23%;
+}
+.about{
+    display: inline-block;
+	width: 30%;
+}
+.middle-img{
+	margin: 30px 0;
+}
+.services{
+	display: inline-block;
+	width: 30%;
+	margin-right: 3%;
+}
+.product{
+	display: inline-block;
+	width: 30%;
+	margin-right: 3%;
+}
+.vision{
+	display: inline-block;
+	width: 30%;
+	margin-right: 3%;
+}
+footer h3{
+	margin: 35px 0;
+}
+p.somewhere{
+	margin-bottom: 35px;
+}
+p.phone{
+   margin-bottom: 35px;
+}
+p.copyright{
+	margin:50px;
+	text-align: center;
+}
+.blackbar{
+	padding: 15px;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    padding-bottom: 45px;
+    padding-top: 45px;
+}
+p.On{
+	text-align: center;
+}
+p.Demand{
+	text-align: center;
+}
+
+
+.servicess{
+	padding: 3% 0;
+}
+
+.digitaldesign{
+	display: flex;
+	flex-direction: column;
+	background-color: lightgrey;
+	width: 45%;
+	padding: 25px;
+	border: 1px solid black;
+	margin:20px;
+}
+img.services-header-img{
+	padding: 0 3%;
+}
+.ui{
+	display: flex;
+	flex-direction: column;
+	background-color: lightgrey;
+	width: 45%;
+	padding: 25px;
+	border: 1px solid black;
+	margin:20px;
+}
+.digitalmarketing{
+	display: flex;
+	flex-direction: column;
+	background-color: lightgrey;
+	width: 45%;
+	padding: 25px;
+	border: 1px solid black;
+	margin:20px;
+}
+.webdevelopment{
+	display: flex;
+	flex-direction: column;
+	background-color: lightgrey;
+	width: 45%;
+	padding: 25px;
+	border: 1px solid black;
+	margin:20px;
+}
+.iosdevelopment{
+	display: flex;
+	flex-direction: column;
+	background-color: lightgrey;
+	width: 45%;
+	padding: 25px;
+	border: 1px solid black;
+	margin:20px;
+}
+.androiddevelopment{
+	display: flex;
+	flex-direction: column;
+	background-color: lightgrey;
+	width: 45%;
+	padding: 25px;
+	border: 1px solid black;
+	margin:20px;
+}
+button{
+	font-size: 15px;
+    background: white;
+    border: 1px solid black;
+    color: black;
+    line-height: 20px;
+    width: 30%;
+    margin-top: 30px;
+}
+.digiandui{
+	display: flex;
+	justify-content: space-between;
+}
+.digandweb{
+	display: flex;
+	justify-content: space-between;
+}
+.iosandandroid{
+	display: flex;
+	justify-content: space-between;
+}
+
+.bottom{
+	display: flex;
+    padding: 25px;
+	
+}
+.lists{
+	line-height: 20px;
+	margin: 20px;
+}
+.facts{
+	text-align: left;
+}
+.somefacts{
+	padding-right: 100px;
+}
+.copy{
+	text-align: center;
+}

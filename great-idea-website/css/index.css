@@ -112,16 +112,17 @@ h1{
 
 .features{
 	display: inline-block;
-    width: 30%;
-    margin-right: 23%;
+    width: 48%;
+    margin-right: 1%;
 }
 
 .about{
     display: inline-block;
-	width: 30%;
+	width: 50%;
 }
 .middle-img{
 	margin: 30px 0;
+	width: 100%;
 }
 .services{
 	display: inline-block;
@@ -152,7 +153,6 @@ p.copyright{
 	text-align: center;
 }
 .blackbar{
-	padding: 15px;
     border-bottom: 2px solid black;
     border-top: 2px solid black;
     padding-bottom: 45px;

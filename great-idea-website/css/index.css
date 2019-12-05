@@ -106,8 +106,9 @@ h1{
 	border: 1px solid black;
 	color: black;
 	line-height: 30px;
-	width: 50%;
-	margin: 50px
+	width: 60%;
+	margin-left: 20%;
+	margin-bottom: 35%;
 }
 
 .features{

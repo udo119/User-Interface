@@ -84,7 +84,7 @@ header nav a{
 }
 
 header{
-	padding-bottom: 15px;
+	padding-bottom: 8%;
 }
 
 h1{
@@ -97,6 +97,7 @@ h1{
 .left{
 	display: inline-block;
 	padding-right: 155px;
+	padding-left: 100px;
 }
 
 .left button{
@@ -114,6 +115,7 @@ h1{
     width: 30%;
     margin-right: 23%;
 }
+
 .about{
     display: inline-block;
 	width: 30%;
@@ -163,7 +165,7 @@ p.Demand{
 	text-align: center;
 }
 
-
+/*
 .servicess{
 	padding: 3% 0;
 }
@@ -265,3 +267,4 @@ button{
 .copy{
 	text-align: center;
 }
+/*
